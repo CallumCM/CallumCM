@@ -15,5 +15,7 @@ Hi there, I'm Callum! My personal things are at [geekveggie.dev](https://geekveg
 - [Bottle](https://bottlepy.org/docs/dev/)
 - [Flask](https://flask.palletsprojects.com/en/2.2.x/)
 - [Discord.py](https://discordpy.readthedocs.io/en/stable/)
-- [Nextcord.py](https://docs.nextcord.dev/en/stable/index.html)  
+- [Nextcord.py](https://docs.nextcord.dev/en/stable/index.html)
+
+
 Plus a bit of [Tensorflow](https://www.tensorflow.org/) and [PyTorch](https://pytorch.org/).
