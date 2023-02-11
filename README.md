@@ -10,7 +10,7 @@ Hi there, I'm Callum! My personal things are at [geekveggie.dev](https://geekveg
 - [Angular](https://angular.io/)
 - [Express](https://expressjs.com/)
 - [Three.js](https://three.js.org/)
-- [p5.js/p5.play.js](https://p5play.org/)
+- [p5.js](https://p5js.org/)/[p5.play.js](https://p5play.org/)
 - [MinecraftForge](https://docs.minecraftforge.net/en/latest/)
 - [Bottle](https://bottlepy.org/docs/dev/)
 - [Flask](https://flask.palletsprojects.com/en/2.2.x/)
