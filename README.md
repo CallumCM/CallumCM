@@ -9,7 +9,7 @@ Hi there, I'm Callum! My personal things are at [geekveggie.dev](https://geekveg
 **As well as these libraries (just to name a few):**
 - [Angular](https://angular.io/)
 - [Express](https://expressjs.com/)
-- [Three.js](https://three.js.org/)
+- [Three.js](https://threejs.org/)
 - [p5.js](https://p5js.org/)/[p5.play.js](https://p5play.org/)
 - [MinecraftForge](https://docs.minecraftforge.net/en/latest/)
 - [Bottle](https://bottlepy.org/docs/dev/)
