@@ -11,6 +11,7 @@ Hi there, I'm Callum! My personal things are at [geekveggie.dev](https://geekveg
 - [TensorFlow](https://www.tensorflow.org/)
 - Hugging Face [Transformers](https://huggingface.co/docs/transformers/index) and [Inference API](https://huggingface.co/docs/api-inference/index)
 - [OpenAI](https://platform.openai.com/docs/introduction)
+- [TailwindCSS](https://tailwindcss.com)
 - [Angular](https://angular.io/)
 - [Express](https://expressjs.com/)
 - [Three.js](https://threejs.org/)
