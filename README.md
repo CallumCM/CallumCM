@@ -7,6 +7,10 @@ Hi there, I'm Callum! My personal things are at [geekveggie.dev](https://geekveg
 
 
 **As well as these libraries (just to name a few):**
+- [PyTorch](https://pytorch.org/)
+- [TensorFlow](https://www.tensorflow.org/)
+- Hugging Face [Transformers](https://huggingface.co/docs/transformers/index) and [Inference API](https://huggingface.co/docs/api-inference/index)
+- [OpenAI](https://platform.openai.com/docs/introduction)
 - [Angular](https://angular.io/)
 - [Express](https://expressjs.com/)
 - [Three.js](https://threejs.org/)
