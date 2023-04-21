@@ -1,4 +1,4 @@
-Hi there, I'm Callum! My personal things are at [geekveggie.dev](https://geekveggie.dev), and I work at JCWYT ([jcwyt.com](https://jcwyt.com)) with @JonahKC doing Python shenanigans—anything to get out of doing CSS. Outside coding, I enjoy running, learning French, and practicing bassoon. I can fluently write in JavaScript (ES6, TypeScript, Node), Python, Ruby (the best coding language), and C#. Java too, but only under dire circumstances.  
+Hi there, I'm Callum! My personal things are at [geekveggie.dev](https://geekveggie.dev), and I work at JCWYT ([jcwyt.com](https://jcwyt.com)) with @JonahKC doing Python shenanigans—anything to get out of doing vanilla CSS. Outside coding, I enjoy running, learning French, and practicing bassoon. I can fluently write in JavaScript (ES6, TypeScript, Node), Python, Ruby (the best coding language), and C#. Java too, but only under dire circumstances.  
 **At the moment, I have experience with these softwares:**
 - [Unity](https://unity.com/)
 - [Godot](https://godotengine.org/)
