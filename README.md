@@ -7,17 +7,15 @@ Hi there, I'm Callum! My personal things are at [geekveggie.dev](https://geekveg
 
 
 **As well as these libraries (just to name a few):**
-- [PyTorch](https://pytorch.org/)
-- [TensorFlow](https://www.tensorflow.org/)
+- [PyTorch](https://pytorch.org/) and [TensorFlow](https://www.tensorflow.org/)
 - Hugging Face [Transformers](https://huggingface.co/docs/transformers/index) and [Inference API](https://huggingface.co/docs/api-inference/index)
 - [OpenAI](https://platform.openai.com/docs/introduction)
+- [LangChain](https://langchain.readthedocs.io/)
 - [TailwindCSS](https://tailwindcss.com)
 - [Angular](https://angular.io/)
 - [Express](https://expressjs.com/)
 - [Three.js](https://threejs.org/)
-- [p5.js](https://p5js.org/)/[p5.play.js](https://p5play.org/)
-- [MinecraftForge](https://docs.minecraftforge.net/en/latest/)
+- [Forge](https://docs.minecraftforge.net/en/latest/)
 - [Bottle](https://bottlepy.org/docs/dev/)
 - [Flask](https://flask.palletsprojects.com/en/2.2.x/)
-- [Discord.py](https://discordpy.readthedocs.io/en/stable/)
-- [Nextcord.py](https://docs.nextcord.dev/en/stable/index.html)
+- [Discord.py](https://discordpy.readthedocs.io/en/stable/)/[Nextcord.py](https://docs.nextcord.dev/en/stable/index.html)
