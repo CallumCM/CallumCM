@@ -15,7 +15,7 @@ Hi there, I'm Callum! My personal things are at [geekveggie.dev](https://geekveg
 - [Angular](https://angular.io/)
 - [Express](https://expressjs.com/)
 - [Three.js](https://threejs.org/)
-- [Forge](https://docs.minecraftforge.net/en/latest/)
+- [MinecraftForge](https://docs.minecraftforge.net/en/latest/)
 - [Bottle](https://bottlepy.org/docs/dev/)
 - [Flask](https://flask.palletsprojects.com/en/2.2.x/)
 - [Discord.py](https://discordpy.readthedocs.io/en/stable/)/[Nextcord.py](https://docs.nextcord.dev/en/stable/index.html)
